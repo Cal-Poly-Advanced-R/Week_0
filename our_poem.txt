@@ -11,3 +11,6 @@ After the class is finished, I hope I got as much work done remotley as I could.
 
 The boredom has set in and the anxiety is growing.
 Let's hope they diminish as we begin coding. 
+
+Once upon a midnight dreary, while I pondered, weak and weary...
+Just kidding I'm not Poe, now to program in R I go!
