@@ -17,3 +17,6 @@ Just kidding I'm not Poe, now to program in R I go!
 
 R you, oh R you as ready as I am to be out of quarantine? 
 On the bright side, perhaps we'll come out of this shiny and well, with an extra shiny app to spare. 
+
+Quarantine got you down?
+A little statistical computing can flip that frown! 🤓
