@@ -1,9 +1,17 @@
 As we work through class remotely (hey, at least no more commuting!),
 And we learn to talk on Zoom (please don't forget about the muting!),
 Let's first have a little fun before the code starts executing.
-Please enjoy this crow-sourced poem about Statistical Computing:
+Please enjoy this crowd-sourced poem about Statistical Computing:
 
 This isn't "twitch writes a poem", but just as good.
 I hope you're all ready to maximize some likelihoods!
+
 After teaching us R, I hope you are understood.
 After the course is finished, I hope I finished as much work as I could. 
+
+The boredom has set in and the anxiety is growing.
+Let's hope they diminish as we begin coding. 
+
+Once upon a midnight dreary, while I pondered, weak and weary...
+Just kidding I'm not Poe, now to program in R I go!
+
