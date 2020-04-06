@@ -26,3 +26,10 @@ I really hope none of you run out of toliet paper!!
 
 Hoping that this situation doesn't become too much more dire
 So I guess I'll wait it out sitting and coding by the fire
+
+I really enjoy ggplot. 
+It makes me smile, quite a lot.
+
+People may think that using R is hard, 
+And they are right! It will leave you scarred!
+
