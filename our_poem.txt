@@ -20,3 +20,6 @@ On the bright side, perhaps we'll come out of this shiny and well, with an extra
 
 Quarantine got you down?
 A little statistical computing can flip that frown! 🤓
+
+As we begin class ensuring our robust programming skills don't taper
+I really hope none of you run out of toliet paper!!
