@@ -26,3 +26,6 @@ I really hope none of you run out of toliet paper!!
 
 I really enjoy ggplot. 
 It makes me smile, quite a lot.
+
+People may think that using R is hard, 
+And they are right! It will leave you scarred!
