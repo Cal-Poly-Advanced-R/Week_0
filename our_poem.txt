@@ -5,3 +5,5 @@ Please enjoy this crow-sourced poem about Statistical Computing:
 
 This isn't "twitch writes a poem", but just as good.
 I hope you're all ready to maximize some likelihoods!
+After teaching us R, I hope you are understood.
+After the course is finished, I hope I finished as much work as I could. 
