@@ -15,3 +15,5 @@ Let's hope they diminish as we begin coding.
 Once upon a midnight dreary, while I pondered, weak and weary...
 Just kidding I'm not Poe, now to program in R I go!
 
+R you, oh R you as ready as I am to be out of quarantine? 
+On the bright side, perhaps we'll come out of this shiny and well, with an extra shiny app to spare. 
