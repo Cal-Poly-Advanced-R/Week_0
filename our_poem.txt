@@ -5,3 +5,6 @@ Please enjoy this crow-sourced poem about Statistical Computing:
 
 This isn't "twitch writes a poem", but just as good.
 I hope you're all ready to maximize some likelihoods!
+
+The boredom has set in and the anxiety is growing.
+Let's hope they diminish as we begin coding. 
