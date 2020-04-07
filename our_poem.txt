@@ -53,3 +53,6 @@ COSAM studs are writing poems for fun
 
 do the r, do it well
 mitochondria is the powerhouse of the cell
+
+Never thought that learning Advanced Statistics in R - which is sublime -
+Would have the prerequisite of knowing how to rime!
