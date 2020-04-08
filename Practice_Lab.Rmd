@@ -1,7 +1,9 @@
 ---
 title: "Practice Lab"
 author: "Felipe González Arango"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -12,15 +14,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 First, let's make sure you know how to use R Markdown.
 
-__Make this text bold.__
+**Make this text bold.**
 
-_Make this text italicized._
+*Make this text italicized.*
 
 Make these into a bullet point list:
 
-*Apples
-*Bananas
-*Potatoes
+* Apples
+* Bananas
+* Potatoes
 
 Make it so this chunk shows the plot, but not the source code:
 
@@ -31,7 +33,7 @@ plot(1:10)
 Make it so this chunk shows the code, but not the output:
 
 ```{r results='hide'}
-2 + 2
+2 + 2 + 2 
 ```
 
 Make it so the file can still knit even though this chunk has an error
