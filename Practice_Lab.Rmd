@@ -1,0 +1,56 @@
+---
+title: "Practice Lab"
+author: "Felipe González Arango"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+First, let's make sure you know how to use R Markdown.
+
+__Make this text bold.__
+
+_Make this text italicized._
+
+Make these into a bullet point list:
+
+*Apples
+*Bananas
+*Potatoes
+
+Make it so this chunk shows the plot, but not the source code:
+
+```{r echo=FALSE}
+plot(1:10)
+```
+
+Make it so this chunk shows the code, but not the output:
+
+```{r results='hide'}
+2 + 2
+```
+
+Make it so the file can still knit even though this chunk has an error
+
+```{r eval=FALSE, include=FALSE}
+2 + a
+```
+
+## Getting to know your classmates
+
+1. Find someone in the class who has a different major than you.  Tell us their name and why they chose that major.
+
+2. Find someone who took Stat 331 from a different professor than you.  Compare your experiences.  Tell us their name and professor.  List one or two things that you think you learned more about, and one or two things that they learned more about.
+
+3. Find someone in the class who does not share your birth month.  Tell us their name and birthday, and use R to find out how many days apart your birthdays are.
+
+4. Pick someone in the class who you don't already know.  Ask them for a story of the strangest thing that ever happened in a class they took.  Share their story (but not their name) here.
+
+
+
+
+
