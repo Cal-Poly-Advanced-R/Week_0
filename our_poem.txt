@@ -92,3 +92,6 @@ When my family walks past me they scour.
 
 Never thought I would write a poem on Github,
 I guess I'm a part of a special club
+
+R or Python,
+I frown.
