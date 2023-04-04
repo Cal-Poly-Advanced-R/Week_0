@@ -2,4 +2,4 @@ Let's have a little fun before the code starts executing.
 And create a crowd-sourced poem about Statistical Computing:
 
 Calculate it in R
-Where do we see we are?
+We are going far
