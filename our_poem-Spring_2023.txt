@@ -3,3 +3,5 @@ And create a crowd-sourced poem about Statistical Computing:
 Open source is cool
 editing and sharing code
 cool community
+R can do so many wonderful things, and that can't be missed
+When you're working hard at becomming a data scientist!
