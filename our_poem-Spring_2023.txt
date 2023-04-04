@@ -1,2 +1,4 @@
 Let's have a little fun before the code starts executing.
 And create a crowd-sourced poem about Statistical Computing:
+
+lalala R yay
