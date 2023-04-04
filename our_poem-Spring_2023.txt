@@ -1,2 +1,5 @@
 Let's have a little fun before the code starts executing.
 And create a crowd-sourced poem about Statistical Computing:
+
+SAS may be fun, but it's no R,
+It is the most powerful by far.
