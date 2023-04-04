@@ -1,3 +1,3 @@
 Let's have a little fun before the code starts executing.
 And create a crowd-sourced poem about Statistical Computing:
-I'm taking this class on R. Hopefully, I can pass the bar.
+I am taking this class on R. Hopefully, I can pass the bar.
