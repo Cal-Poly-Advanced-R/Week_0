@@ -1,2 +1,5 @@
 Let's have a little fun before the code starts executing.
 And create a crowd-sourced poem about Statistical Computing:
+
+Second day of spring quarter and I get to code,
+Cant wait to try out the quizzes when I return home.
