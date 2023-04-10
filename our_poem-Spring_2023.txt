@@ -3,3 +3,8 @@ And create a crowd-sourced poem about Statistical Computing:
 
 My name is Nils Berzins, and I'm a little worried about this class.
 But regardless of my concerns, I'm sure this quarter will be a blast. 
+
+I don't know how to rhyme, it's a bit confusing.
+
+R can do so many wonderful things, and that can't be missed
+When you're working hard at becomming a data scientist!
