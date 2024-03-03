@@ -1,7 +1,8 @@
 Let's have a little fun before the code starts executing.
 And create a crowd-sourced poem about Statistical Computing:
 
-I don't know how to rhyme, it's a bit confusing.
+We'll laugh and joke until the bugs stop misbehaving,
+And then we'll get to work, our skills all engaging.
 
 R can do so many wonderful things, and that can't be missed
 When you're working hard at becomming a data scientist!
