@@ -5,4 +5,7 @@ We'll laugh and joke until the bugs stop misbehaving,
 And then we'll get to work, our skills all engaging.
 
 R can do so many wonderful things, and that can't be missed
-When you're working hard at becomming a data scientist!
+When you're working hard at becoming a data scientist!
+
+I hope I won't run into the infamous "merge conflict",
+but in a collaboratory setting, it's inevitable, I predict. 
