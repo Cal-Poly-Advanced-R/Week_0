@@ -6,3 +6,6 @@ And then we'll get to work, our skills all engaging.
 
 R can do so many wonderful things, and that can't be missed
 When you're working hard at becomming a data scientist!
+
+There is so much to learn in R and Git, it may look like a disaster
+But if you work hard enough, you can become a master
