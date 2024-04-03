@@ -4,5 +4,10 @@ And create a crowd-sourced poem about Statistical Computing:
 We'll laugh and joke until the bugs stop misbehaving,
 And then we'll get to work, our skills all engaging.
 
+The graphs and models will for sure tell a story,
+And we can be certain to bask in that glory.
+
 R can do so many wonderful things, and that can't be missed
 When you're working hard at becomming a data scientist!
+
+
