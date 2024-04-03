@@ -4,5 +4,8 @@ And create a crowd-sourced poem about Statistical Computing:
 We'll laugh and joke until the bugs stop misbehaving,
 And then we'll get to work, our skills all engaging.
 
+Wrangle the data and make a graph,
+Make no mistake or we'll all laugh.
+
 R can do so many wonderful things, and that can't be missed
 When you're working hard at becomming a data scientist!
